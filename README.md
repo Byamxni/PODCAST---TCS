@@ -20,8 +20,6 @@ Assim surgiu **Amaya Lovelace**, apresentadora fictícia do podcast *The Code of
 
 ## 🛠️ Ferramentas | Tools
 
-## 🛠️ Ferramentas | Tools
-
 | Ferramenta | Uso | Tool | Purpose |
 |-------------|------|------|----------|
 | ChatGPT | Roteiro e ajustes em SSML | ChatGPT | Scriptwriting & SSML |
