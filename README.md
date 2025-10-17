@@ -20,12 +20,15 @@ Assim surgiu **Amaya Lovelace**, apresentadora fictícia do podcast *The Code of
 
 ## 🛠️ Ferramentas | Tools
 
+## 🛠️ Ferramentas | Tools
+
 | Ferramenta | Uso | Tool | Purpose |
 |-------------|------|------|----------|
 | ChatGPT | Roteiro e ajustes em SSML | ChatGPT | Scriptwriting & SSML |
-| PicLumen | Criação de imagens | PicLumen | Image generation |
-| ElevenLabs | Voz sintética (Charlotte 🇬🇧) | ElevenLabs | Voice synthesis |
+| PicLumen | Criação de imagens (tive que me virar, pois o método sugerido na DIO foi MidJourney, mas os planos eram inviáveis; então usei PicLumen) | PicLumen | Image generation (had to improvise, MidJourney was suggested in the DIO course but the plans weren’t feasible, so I used PicLumen) |
+| ElevenLabs | Voz sintética (Charlotte 🇬🇧) (Monika Sogam 🇬🇧) | ElevenLabs | Voice synthesis |
 | CapCut | Edição de áudio | CapCut | Audio editing |
+
 
 ---
 
@@ -40,13 +43,27 @@ Assim surgiu **Amaya Lovelace**, apresentadora fictícia do podcast *The Code of
 
 ---
 
+## 📹 Episódios em Vídeo | Video Episodes
+
+> Os episódios em vídeo são grandes e hospedados no Google Drive. Clique nos links para assistir ou baixar.
+
+| Episódio | Idioma | Link |
+|----------|--------|------|
+| Episódio 1 | Inglês | [Assista no Google Drive](https://drive.google.com/file/d/1dejL8qCl_O5iNBb9PYuvgERrJYzBwYZF/view?usp=drive_link) |
+| Episódio 1 | Português | [Assista no Google Drive](https://drive.google.com/file/d/1J_5el1v_ZxUoEMw9Rht70JUP-F19MpbS/view?usp=drive_link) |
+
+> Obs: Arquivos grandes, pode levar alguns segundos ou minutos dependendo da sua conexão.
+> Obs²: A versão é português é mais curtinha e não me deu exatamente o resultado esperado, mas como prática, ela está aqui também, os textos estão em "prompts" inclusive a tradução do original.
+
+---
+
 ## 🔊 Voz & Narração | Voice & Narration
 
-- **Voz:** Charlotte (British Female)  
+- **Voz:** Charlotte (British Female)  |  Monika Sogam (Indian English Accent/portuguese) 
 - **Estabilidade / Stability:** 45%  
 - **Similaridade / Similarity:** 70%  
 - **Estilo / Style:** natural, levemente irônico / natural, slightly ironic  
-- **Formato / Format:** Roteiro revisado em SSSML / Script adjusted in SSML  
+- **Formato / Format:** Roteiro revisado em SSML / Script adjusted in SSML  
 
 ---
 
@@ -55,17 +72,17 @@ Assim surgiu **Amaya Lovelace**, apresentadora fictícia do podcast *The Code of
 - Estrutura de narrativas com IA generativa / Structuring narratives with generative AI  
 - Técnicas de SSML para voz natural / SSML techniques for natural voice  
 - Prompting consistente para imagens / Consistent prompting for images  
-- Que sarcasmo melhora qualquer explicação técnica / Sarcasm improves any technical explanation  
 
+---
 ---
 
 ## 🖤 Créditos | Credits
 
 Criado por **Pâmela Amani**  
-Inspirado por *Philomena Cunk*, *Cunk on Earth* e o caos glorioso do mundo tech.  
+Inspirado por *Philomena Cunk*, *Cunk on Earth* e Felipe Aguiar (DIO).  
 
 > Created by **Pâmela Amani**  
-> Inspired by *Philomena Cunk*, *Cunk on Earth*, and the glorious chaos of the tech world.
+> Inspired by *Philomena Cunk*, *Cunk on Earth*, and Felipe Aguiar (DIO).
 
 ---
 
@@ -76,5 +93,4 @@ Feel free to remix or adapt, just don’t let the robots claim it as theirs firs
 
 ---
 
-## 🗂 Estrutura sugerida | Suggested Folder Structure
 
