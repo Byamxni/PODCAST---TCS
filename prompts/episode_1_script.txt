@@ -1,3 +1,28 @@
+PROMPT USADO:
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em frontend cujo o nome é "O Código das Trevas - Mistérios da camada visual" e tem foco em fullstack e róbotica,  com o público alvo de iniciantes em programação e entusiastas de róbotica o formato do roteiro deve ser 
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos episodios da série 'O mundo por Philomena Cunk', como se fossem escritos pela Philomena Cunk 
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Python e ROS
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta para iniciantes que querem programar mais nessa área fullstack mais enviesada na róbotica
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Amaya Lovelace e esse foi o CodeQuest dessa semana' 
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Amaya Lovelace, mas ela vai se referir como apenas Amaya na maior parte do tempo
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+RESULTADOS OBTIDOS:
+
 ## 🎙️ **The Code of Shadows — Mysteries of the Visual Layer**
 
 ### Episode: “When Robots Start Thinking (Sort Of)”
@@ -307,5 +332,6 @@ continue explorando o lado misterioso da tecnologia comigo.
 Eu sou Amaya Lovelace —
 
 e este foi o CodeQuest desta semana.
+
 
 Até o nosso próximo mergulho... em O Código das Sombras. 💻✨
