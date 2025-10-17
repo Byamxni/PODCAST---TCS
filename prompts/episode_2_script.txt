@@ -1,0 +1,112 @@
+
+Olá, eu sou Amaya.
+
+Este é *O Código das Sombras* — o podcast que tenta entender a tecnologia... e geralmente descobre que ela só finge fazer sentido.
+
+Já percebeu que robôs estão cada vez mais espertos? Andam, conversam... até parecem notar quando você está irritado. Será que algum dia criarão podcasts melhores que o meu? Até lá, humanos têm uma vantagem: *o sarcasmo*.
+
+Hoje exploramos o mundo confuso da robótica e do desenvolvimento fullstack. Spoiler: envolve **Python**.
+
+Python ensina robôs a entender o mundo junto com **R.O.S.** — o **Sistema Operacional de Robôs**. ROS é o cérebro coletivo; Python, o tradutor educado.
+
+ROS grita: **"Mexam-se, minions codificados!"**  
+Python responde: *"Ok, mas vamos colocar numa função primeiro."*
+
+Graças a eles, iniciantes criam robôs que se movem e evitam bater na parede — mais autoconsciência do que alguns humanos têm.
+
+Quer brincar com web e robótica? Use **Node-RED**. É como LEGO digital: conecta sensores, APIs e serviços web.
+
+Acenda luzes quando o robô vê movimento ou receba mensagem quando o café acabar. Sem digitar mil linhas de código que fazem você se questionar.
+
+Node-RED faz pensar: **"Ah, assim é que o futuro deve ser — botões coloridos, sem chororô."**
+
+Python e ROS são o *Batman e Robin* da robótica, e Node-RED, o ajudante nerd que todo herói precisa.
+
+Gostou desse passeio pelo desconhecido digital? Continue explorando comigo.
+
+Eu sou **Amaya Lovelace** — este foi o **CodeQuest**.
+
+Até nosso próximo mergulho em *O Código das Sombras*.
+
+💻✨
+
+---
+<speak>
+  <voice name="Amaya">
+    <p>
+      <break time="300ms"/>  
+      Olá, eu sou Amaya.  
+      <break time="400ms"/>  
+      Este é <emphasis level="moderate">O Código das Sombras</emphasis> —  
+      o podcast que tenta entender a tecnologia...  
+      e geralmente descobre que ela só finge fazer sentido.  
+    </p>
+
+    <p>
+      Já percebeu que robôs estão cada vez mais espertos?  
+      <break time="300ms"/>  
+      Andam, conversam... até parecem notar quando você está irritado.  
+      <break time="300ms"/>  
+      Será que algum dia criarão podcasts melhores que o meu?  
+      <break time="400ms"/>  
+      Até lá, humanos têm uma vantagem: <emphasis level="moderate">o sarcasmo.</emphasis>  
+    </p>
+
+    <p>
+      Hoje exploramos o mundo confuso da robótica e do desenvolvimento fullstack.  
+      <break time="300ms"/>  
+      Spoiler: envolve <emphasis>Python</emphasis>.  
+    </p>
+
+    <p>
+      Python ensina robôs a entender o mundo junto com <emphasis>R. O. S.</emphasis> —  
+      o <emphasis>Sistema Operacional de Robôs</emphasis>.  
+      ROS é o cérebro coletivo; Python, o tradutor educado.  
+    </p>
+
+    <p>
+      ROS grita: <emphasis level="strong">“Mexam-se, minions codificados!”</emphasis>  
+      <break time="300ms"/>  
+      Python responde: <emphasis level="moderate">“Ok, mas vamos colocar numa função primeiro.”</emphasis>  
+    </p>
+
+    <p>
+      Graças a eles, iniciantes criam robôs que se movem  
+      e evitam bater na parede — mais autoconsciência do que alguns humanos têm.  
+    </p>
+
+    <p>
+      Quer brincar com web e robótica? Use <emphasis>Node-RED</emphasis>.  
+      <break time="300ms"/>  
+      É como LEGO digital: conecta sensores, APIs e serviços web.  
+    </p>
+
+    <p>
+      Acenda luzes quando o robô vê movimento ou receba mensagem quando o café acabar.  
+      <break time="300ms"/>  
+      Sem digitar mil linhas de código que fazem você se questionar.  
+    </p>
+
+    <p>
+      Node-RED faz pensar: <emphasis level="strong">“Ah, assim é que o futuro deve ser — botões coloridos, sem chororô.”</emphasis>  
+    </p>
+
+    <p>
+      Python e ROS são o <emphasis>Batman e Robin</emphasis> da robótica,  
+      e Node-RED, o ajudante nerd que todo herói precisa.  
+    </p>
+
+    <p>
+      Gostou desse passeio pelo desconhecido digital?  
+      Continue explorando comigo.  
+      <break time="300ms"/>  
+      Eu sou <emphasis>Amaya Lovelace</emphasis> — este foi o <emphasis level="strong">CodeQuest</emphasis>.  
+    </p>
+
+    <p>
+      Até nosso próximo mergulho em <emphasis level="moderate">O Código das Sombras</emphasis>.  
+      <break time="500ms"/>  
+      💻✨  
+    </p>
+  </voice>
+</speak>
